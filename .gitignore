@@ -1,0 +1,14 @@
+db.sqlite3
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.idea/
+pycheck.lo
+
+/jupyter.log
+.ipynb_checkpoints/
+
+images/
+*/png
+models/
