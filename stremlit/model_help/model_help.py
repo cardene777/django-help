@@ -1,5 +1,4 @@
 import streamlit as st
-import pykakasi
 from googletrans import Translator
 import re
 
